@@ -1,0 +1,74 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos generales */
+
+body{
+    background-color: #000054;
+    background-image: linear-gradient(28deg, #000054 0%, #a790cc 100%);
+}
+
+header {
+    padding: 20px;
+    font-family: "Poppins";
+    color: aliceblue;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    font-family: "DM Sans";
+    color: antiquewhite;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+    font-family: "Poppins";
+    color: aqua;
+}
+
+nav ul li a {
+    text-decoration: none;
+    font-family: "DM Sans";
+    color: aquamarine;
+}
+
+main {
+    padding: 20px;
+    font-family: "Poppins";
+    color: azure;
+}
+
+section {
+    margin-bottom: 30px;
+    font-family: "DM Sans";
+    color: beige;
+}
+
+footer {
+    padding: 20px;
+    text-align: center;
+    font-family: "Poppins";
+    color: bisque;
+}
+
+/* Estilos específicos */
+h1 {
+    margin: 0;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+address {
+    font-style: normal;
+}
+
+a {
+    text-decoration: underline;
+}
